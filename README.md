@@ -1,4 +1,4 @@
-#**Machine learning and AI projects** 🕵️‍♂️ 
+# **Machine learning and AI projects** 🕵️‍♂️ 
 
 Hey there, welcome to my repository! This is where I'm stashing all the  machine learning projects I've been playing around with. I've got this insatiable hunger for learning new things, especially when it comes to the mind-bending possibilities that new technology brings to the table.
 
